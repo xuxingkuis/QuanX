@@ -16,7 +16,7 @@ QX下载配置文件的请求不会触发脚本MITM重写。故无法使用。
 // 如果不使用BoxJS配置，可以在这里修改
 let config = {
   username: "xuxingkuis", // 用户名
-  token: "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", // token
+  token: "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", // token
 };
 
 // load user prefs from box
